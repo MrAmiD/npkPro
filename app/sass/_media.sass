@@ -8,10 +8,41 @@
 
 //Large: ≥992px
 +media-breakpoint-down(lg)
-  /**/
-
+  .main-win-cc .main-win-c .main-win-r .content-c .h1
+    font-size: 25px
+  .callBack .fl-form
+    flex-wrap: wrap
+    justify-content: flex-end
+  .callBack .inpt-c
+    width: 100%
+    margin-bottom: 15px
+  .callBack .tr-b
+    margin-left: 15px
+  .products-npk .prod-list-c
+    display: flex
+    align-items: center
+    height: 100%
+  .products-npk .prod-list-c .scroll1
+    width: 100%
+  .f-items-c
+    .item-f
+      &:nth-child(1)
+        order: 1
+      &:nth-child(2)
+        order: 3
+      &:nth-child(3)
+        order: 4
+        margin-top: 15px
+      &:nth-child(4)
+        order: 2
+    .pralogo
+      align-items: flex-end
+      display: flex
+      flex-direction: column
 //Medium: ≥768px
 +media-breakpoint-down(md)
+  .main-menu-c
+    display: none
   .content
     table
       overflow-x: scroll
@@ -21,13 +52,80 @@
         display: block
         min-width: 500px
         width: 100%
+  #my-header
+    .contact-c
+      flex-direction: column
+      align-items: flex-end
+    .mail-c
+      margin-bottom: 10px
 //Small: ≥576px
 +media-breakpoint-down(sm)
-  /**/
+  #my-header
+    .logo-cc
+      .logo-c
+        .h2
+          font-size: 24px
+  .products-npk
+    .content-c
+      margin-top: 15px
+  .products-npk .prod-list-c .scroll1
+    height: 70vh
+    max-height: 300px
+  .products-npk .content-c .content
+    padding-left: 0px
+  .prod-row
+    margin: 0px
+  .prod-s1
+    padding: 0px
+  .content h2
+    font-size: 18px
 //Extra small: >0
 +media-breakpoint-down(xs)
-	/**/
-
+  .f-items-c
+    .item-f
+      margin-bottom: 15px
+      &:nth-child(3)
+        margin-top: 0px
+  .map-cont #map-c
+    position: relative
+    max-height: 70vh
+    height: 300px
+    margin-top: 30px
+    padding: 0 30px
+    background: #fff
+  #my-footer .polit-usr
+    a
+      display: inline-block
+      margin-bottom: 5px
+  .f-items-c .pralogo
+    align-items: flex-start
+  .map-form
+    max-width: 100%
+  .about-sec
+    padding-bottom: 50px
+  .map-form textarea
+    width: 100%
+  .callBack .inpt-c
+    flex-direction: column
+  .callBack .inpt-c input
+    border-radius: 100px!important
+    &.mail-i
+      margin-bottom: 15px
+  .callBack .tr-b
+    margin-top: 15px
+  .callBack .tr-b,.callBack .btn-accent
+    width: 150px
+  .products-npk .content-c .callBack
+    padding: 15px
+  #my-header
+    padding-top: 19px
+    .contact-c
+      margin-top: 19px
+  #my-header .logo-cc .logo-c .h2
+    font-size: 19px
+    word-spacing: 4px
+  .icons-t
+    height: auto
 
 /*==========  Mobile First  ==========*/
 
@@ -46,7 +144,8 @@
 
 //Large: ≤992px
 +media-breakpoint-up(lg)
-  /**/
+  .menu-m-cc
+    display: none
 
 //Extra large: ≤1200px
 +media-breakpoint-up(xl)

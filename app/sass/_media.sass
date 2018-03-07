@@ -39,6 +39,10 @@
       align-items: flex-end
       display: flex
       flex-direction: column
+  .callBack.full-cb .inpt-c
+    width: 100%
+  .callBack.full-cb .btn-accent:before
+    display: none
 //Medium: ≥768px
 +media-breakpoint-down(md)
   .main-menu-c
@@ -81,6 +85,11 @@
     font-size: 18px
 //Extra small: >0
 +media-breakpoint-down(xs)
+  .callBack.full-cb .fl-form
+    justify-content: center
+  .callBack.full-cb
+    padding: 30px!important
+    margin-bottom: 0px
   .f-items-c
     .item-f
       margin-bottom: 15px

@@ -394,10 +394,10 @@ html.mm-opening .mm-menu~.mm-slideout
 		text-transform: uppercase
 		color: $dark
 	b
-		font-size: 16px
+		font-size: 14px
 		font-weight: 900
 	p
-		font-size: 16px
+		font-size: 14px
 		line-height: 26px
 		margin-bottom: 20px
 		max-width: 850px
@@ -410,7 +410,7 @@ html.mm-opening .mm-menu~.mm-slideout
 		max-width: 100%
 	blockquote
 		font-weight: 900
-		font-size: 16px
+		font-size: 14px
 		line-height: 1.2
 		max-width: 360px
 		//padding-left: 45px
@@ -457,7 +457,7 @@ html.mm-opening .mm-menu~.mm-slideout
 		li
 			position: relative
 			font-weight: 500
-			font-size: 16px
+			font-size: 14px
 			margin-bottom: 20px
 			&:before
 				content: ''
@@ -503,23 +503,22 @@ html.mm-opening .mm-menu~.mm-slideout
 	-webkit-border-radius: 4px
 	border-radius: 4px
 	margin: 15px 0px
-	margin-top: 45px
+	margin-top: 20px
 	text-align: left
-	padding-left: 49px
+	margin-bottom: 42px
 	li
 		display: inline-block
-		font-size: 14px
+		font-size: 12px
 		&.active
 			span
 				border-bottom: solid 1px #989898
-				color: #989898
+				color: $dark
 		a
-			color: #989898
+			color: $dark
 			&:hover, &:focus
-				color: $accent
-				text-decoration: none
+				text-decoration: underline
 	&>li+li:before
-		content: " | "
+		content: " / "
 		padding: 0 10px
 		color: $dark
 		font-weight: 500
@@ -1158,12 +1157,8 @@ html.mm-opening .mm-menu~.mm-slideout
 					color: #fcc419
 					font-family: 'Museo Sans Cyrl', sans-serif
 
-#my-footer,section
-	//display: none
-
-#my-footer
-	//display: none
-
+#my-content
+	min-height: 70vh
 #my-header
 	padding-top: 31px
 	padding-bottom: 19px
@@ -1402,7 +1397,25 @@ html.mm-opening .mm-menu~.mm-slideout
 			font-weight: 700
 			font-size: 18px
 			padding-left: 30px
-
+	&.full-cb
+		padding: 42px 68px
+		margin-bottom: 70px
+		.inpt-c
+			width: 670px
+		.btn-accent
+			width: 265px
+			position: relative
+			&:before
+				content: ''
+				position: absolute
+				left: -36px
+				top: 0px
+				bottom: 0px
+				width: 1px
+				background: #FFFFFF
+.cb-cc
+	.quest
+		margin: 15px 0
 .quest
 	font-size: 12px
 	font-weight: 900
@@ -1544,6 +1557,65 @@ html.mm-opening .mm-menu~.mm-slideout
 		margin-top: 20px
 		width: 150px
 		max-width: 100%
+
+
+.prod-page
+	.h1
+		font-size: 24px
+		font-weight: 900
+	.goods-prop
+		margin-top: 25px
+		.item-pc
+			.item-p
+				border-top: solid 1px $grey
+	.content
+		h3
+			font-weight: 700
+			font-size: 18px
+			margin-top: 15px
+			text-transform: none
+			&.doc-h
+				margin-top: 35px
+	.gal-pc
+		.item-p
+			border-bottom: solid 1px $grey
+.gal-c
+	margin-left: -7px
+	margin-right: -7px
+	margin-bottom: 45px
+	.gal-i
+		padding: 0 7px
+		position: relative
+		max-width: 194px
+		margin-bottom: 15px
+		a
+			position: relative
+			&:hover
+				&:after
+					content: ''
+					background: rgba($dark, 0.5)
+					position: absolute
+					top: 0px
+					bottom: 0px
+					right: 0px
+					left: 0px
+				&:before
+					content: ''
+					position: absolute
+					top: 50%
+					left: 50%
+					transform: translate(-50%, -50%)
+					background-image: url('../img/icons/fullScr.png')
+					background-position: center
+					background-repeat: no-repeat
+					width: 32px
+					height: 32px
+					background-color: $accent2
+					border-radius: 100px
+					z-index: 1
+		a
+			display: block
+			border: solid 1px $grey
 //.ymaps-2-1-56-balloon__content
 //	background: $dark
 //	color: #FFFFFF

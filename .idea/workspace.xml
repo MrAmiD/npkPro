@@ -2,18 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d4d3dbb-f277-4185-8481-0ccfe0eb9775" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBlack/MuseoSansBlack.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBlack/MuseoSansBlack.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBlackItalic/MuseoSansBlackItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBlackItalic/MuseoSansBlackItalic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBlackItalic/MuseoSansBlackItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBold/MuseoSansBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBold/MuseoSansBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBoldItalic/MuseoSansBoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBoldItalic/MuseoSansBoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-100.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-100.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-100.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-500.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-500.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-500.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-700.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-700.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-900.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-900.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-900.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl_700.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansItalic/MuseoSansItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansItalic/MuseoSansItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansLight/MuseoSansLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansLight/MuseoSansLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansLightItalic/MuseoSansLightItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansLightItalic/MuseoSansLightItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansMedium/MuseoSansMedium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansMedium/MuseoSansMedium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansMediumItalic/MuseoSansMediumItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansMediumItalic/MuseoSansMediumItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansRegular/MuseoSansRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansRegular/MuseoSansRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bgProd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bgSecW.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/mainWinBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/quest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/upBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/minified/jquery.mCustomScrollbar.min.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/mCSB_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBlack/MuseoSansBlack.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBlackItalic/MuseoSansBlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBold/MuseoSansBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansBoldItalic/MuseoSansBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-100.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-500.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-700.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-900.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansItalic/MuseoSansItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansLight/MuseoSansLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansLightItalic/MuseoSansLightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansMedium/MuseoSansMedium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansMediumItalic/MuseoSansMediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansRegular/MuseoSansRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/_fonts.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/jquery.mCustomScrollbar.concat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/jquery.mCustomScrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/jquery.mCustomScrollbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/jquery.mCustomScrollbar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/minified/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/minified/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/minified/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/minified/jquery-ui-1.10.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/minified/jquery.mCustomScrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/minified/jquery.mousewheel-3.0.6.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/minified/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/uncompressed/jquery.mCustomScrollbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/uncompressed/jquery.mousewheel-3.0.6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/js/uncompressed/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/malihu-custom-scrollbar-plugin-3.1.5/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.min.css" afterPath="$PROJECT_DIR$/app/css/main.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/common.js" afterPath="$PROJECT_DIR$/app/js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/common.min.js" afterPath="$PROJECT_DIR$/app/js/common.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/scripts.min.js" afterPath="$PROJECT_DIR$/app/js/scripts.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_fonts.sass" afterPath="$PROJECT_DIR$/app/sass/_fonts.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_libs.sass" afterPath="$PROJECT_DIR$/app/sass/_libs.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_media.sass" afterPath="$PROJECT_DIR$/app/sass/_media.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_vars.sass" afterPath="$PROJECT_DIR$/app/sass/_vars.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/main.sass" afterPath="$PROJECT_DIR$/app/sass/main.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -309,7 +374,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -322,7 +387,62 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -418,7 +538,7 @@
       <workItem from="1520249764374" duration="1331000" />
       <workItem from="1520306521833" duration="27039000" />
       <workItem from="1520348886093" duration="91000" />
-      <workItem from="1520406922491" duration="4743000" />
+      <workItem from="1520406922491" duration="5875000" />
     </task>
     <task id="LOCAL-00001" summary="layouts typeless">
       <created>1507611710743</created>
@@ -469,18 +589,25 @@
       <option name="project" value="LOCAL" />
       <updated>1517819916647</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="bootstrap vars and media">
+      <created>1520414770367</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1520414770367</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="357068000" />
+    <option name="totallyTimeSpent" value="358200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14645922" sideWeight="0.56929636" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14675768" sideWeight="0.4307036" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14645922" sideWeight="0.5737913" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14645922" sideWeight="0.42620865" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19300225" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />

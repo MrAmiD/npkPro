@@ -463,12 +463,13 @@ html.mm-opening .mm-menu~.mm-slideout
 				content: ''
 				display: block
 				width: 10px
-				height: 10px
+				height: 13px
+				background-image: url("../img/li.png")
+				background-position: center
+				background-repeat: no-repeat
 				position: absolute
 				left: -25px
-				top: 7px
-				background: $accent
-				border-radius: 50%
+				top: 0px
 			ul
 				margin-top: 0px
 				li
@@ -1635,6 +1636,19 @@ html.mm-opening .mm-menu~.mm-slideout
 		margin-bottom: 5px
 	.c-item
 		margin-bottom: 30px
+
+.news-c
+	.item-n
+		border-bottom: solid 1px $grey
+		padding-bottom: 30px
+		margin-bottom: 30px
+		&:last-child
+			border-color: transparent
+		.prev
+			min-height: 360px
+			background-position: center
+			background-repeat: no-repeat
+
 //.ymaps-2-1-56-balloon__content
 //	background: $dark
 //	color: #FFFFFF
